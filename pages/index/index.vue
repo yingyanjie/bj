@@ -1,7 +1,7 @@
 <template>
 	<view class="content">
 		<u-navbar back-text="返回" title="剑未配妥，出门已是江湖"></u-navbar>
-		9999
+		000
 		<image class="logo" src="/static/bigSB.jpeg"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
